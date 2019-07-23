@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RanaProject", "RanaProject\RanaProject.csproj", "{29CB42A1-45EE-4D13-9CEC-C1AB65320CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RanaProject.Models", "RanaProject.Models\RanaProject.Models.csproj", "{25B021D1-63F6-4A85-9669-06BC7D2C9397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RanaProject.Repository", "RanaProject.Repository\RanaProject.Repository.csproj", "{6B8B7C76-3E1F-4D79-B8F6-45E194B8138B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RanaProject.BLL", "RanaProject.BLL\RanaProject.BLL.csproj", "{41D076D1-3449-458D-BBAD-C6D2A8950DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RanaProject.Repository.Contracts", "RanaProject.Repository.Contracts\RanaProject.Repository.Contracts.csproj", "{A0EDDF74-D5DE-4B7B-BCFB-11A151916A46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RanaProject.BLL.Contracts", "RanaProject.BLL.Contracts\RanaProject.BLL.Contracts.csproj", "{DE6DBCD0-B742-4E60-839C-2DF1E358261B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29CB42A1-45EE-4D13-9CEC-C1AB65320CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CB42A1-45EE-4D13-9CEC-C1AB65320CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CB42A1-45EE-4D13-9CEC-C1AB65320CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CB42A1-45EE-4D13-9CEC-C1AB65320CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B021D1-63F6-4A85-9669-06BC7D2C9397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B021D1-63F6-4A85-9669-06BC7D2C9397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B021D1-63F6-4A85-9669-06BC7D2C9397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B021D1-63F6-4A85-9669-06BC7D2C9397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8B7C76-3E1F-4D79-B8F6-45E194B8138B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8B7C76-3E1F-4D79-B8F6-45E194B8138B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8B7C76-3E1F-4D79-B8F6-45E194B8138B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8B7C76-3E1F-4D79-B8F6-45E194B8138B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D076D1-3449-458D-BBAD-C6D2A8950DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D076D1-3449-458D-BBAD-C6D2A8950DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D076D1-3449-458D-BBAD-C6D2A8950DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D076D1-3449-458D-BBAD-C6D2A8950DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0EDDF74-D5DE-4B7B-BCFB-11A151916A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EDDF74-D5DE-4B7B-BCFB-11A151916A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0EDDF74-D5DE-4B7B-BCFB-11A151916A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0EDDF74-D5DE-4B7B-BCFB-11A151916A46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6DBCD0-B742-4E60-839C-2DF1E358261B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6DBCD0-B742-4E60-839C-2DF1E358261B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6DBCD0-B742-4E60-839C-2DF1E358261B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6DBCD0-B742-4E60-839C-2DF1E358261B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A8A7859-D927-4C25-BE69-0DDE3912A784}
+	EndGlobalSection
+EndGlobal

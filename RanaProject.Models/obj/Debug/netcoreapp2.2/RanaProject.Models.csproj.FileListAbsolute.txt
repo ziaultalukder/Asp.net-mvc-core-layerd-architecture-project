@@ -1,0 +1,8 @@
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.Models\bin\Debug\netcoreapp2.2\RanaProject.Models.deps.json
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.Models\bin\Debug\netcoreapp2.2\RanaProject.Models.dll
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.Models\obj\Debug\netcoreapp2.2\RanaProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.Models\obj\Debug\netcoreapp2.2\RanaProject.Models.AssemblyInfoInputs.cache
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.Models\obj\Debug\netcoreapp2.2\RanaProject.Models.AssemblyInfo.cs
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.Models\bin\Debug\netcoreapp2.2\RanaProject.Models.pdb
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.Models\obj\Debug\netcoreapp2.2\RanaProject.Models.dll
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.Models\obj\Debug\netcoreapp2.2\RanaProject.Models.pdb

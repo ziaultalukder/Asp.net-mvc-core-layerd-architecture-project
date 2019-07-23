@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RanaProject.Models\RanaProject.Models.csproj" />
+    <ProjectReference Include="..\RanaProject.Repository.Contracts\RanaProject.Repository.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

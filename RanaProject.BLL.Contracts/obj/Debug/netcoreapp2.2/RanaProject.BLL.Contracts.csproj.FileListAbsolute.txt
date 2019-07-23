@@ -1,0 +1,12 @@
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.BLL.Contracts\bin\Debug\netcoreapp2.2\RanaProject.BLL.Contracts.deps.json
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.BLL.Contracts\bin\Debug\netcoreapp2.2\RanaProject.BLL.Contracts.dll
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.BLL.Contracts\bin\Debug\netcoreapp2.2\RanaProject.BLL.Contracts.pdb
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.BLL.Contracts\bin\Debug\netcoreapp2.2\RanaProject.Models.dll
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.BLL.Contracts\bin\Debug\netcoreapp2.2\RanaProject.Models.pdb
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.BLL.Contracts\obj\Debug\netcoreapp2.2\RanaProject.BLL.Contracts.csprojAssemblyReference.cache
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.BLL.Contracts\obj\Debug\netcoreapp2.2\RanaProject.BLL.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.BLL.Contracts\obj\Debug\netcoreapp2.2\RanaProject.BLL.Contracts.AssemblyInfoInputs.cache
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.BLL.Contracts\obj\Debug\netcoreapp2.2\RanaProject.BLL.Contracts.AssemblyInfo.cs
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.BLL.Contracts\obj\Debug\netcoreapp2.2\RanaProject.BLL.Contracts.csproj.CopyComplete
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.BLL.Contracts\obj\Debug\netcoreapp2.2\RanaProject.BLL.Contracts.dll
+C:\Users\Ziaul\source\repos\RanaProject\RanaProject.BLL.Contracts\obj\Debug\netcoreapp2.2\RanaProject.BLL.Contracts.pdb
